@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <View>
       <Text>Common Header</Text>
-      <Text>Title</Text>
+      <Text>Title NAMe</Text>
     </View>
   );
 };
