@@ -4,7 +4,8 @@ import React from "react";
 const Header = () => {
   return (
     <View>
-      <Text>Common Header</Text>
+      <Text>Common Headers</Text>
+      <Text>Title Name</Text>
     </View>
   );
 };
