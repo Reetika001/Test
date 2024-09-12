@@ -5,7 +5,8 @@ export class Footer extends Component {
   render() {
     return (
       <View>
-        <Text>Footer Side at navbar</Text>
+        <Text>Header Scetion</Text>
+        <Text>Footer Side on navbar</Text>
       </View>
     );
   }
