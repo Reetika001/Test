@@ -5,7 +5,7 @@ export class Header extends Component {
   render() {
     return (
       <View>
-        <Text>Header modified</Text>
+        <Text>Header modify</Text>
       </View>
     );
   }
