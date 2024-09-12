@@ -7,6 +7,8 @@ export class Header extends Component {
       <View>
         <Text>Header modify</Text>
         <Text>Header Title</Text>
+        <Text>Header Section</Text>
+        <Text>Header modify to bold</Text>
       </View>
     );
   }
