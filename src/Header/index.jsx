@@ -6,6 +6,7 @@ export class Header extends Component {
     return (
       <View>
         <Text>Header modify</Text>
+        <Text>Header Title</Text>
       </View>
     );
   }
