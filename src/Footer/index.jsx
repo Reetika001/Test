@@ -6,7 +6,7 @@ export class Footer extends Component {
     return (
       <View>
         <Text>Footer Side at Bottom</Text>
-        <Text>Header Scetion</Text>
+        <Text>Header Scetion should be bold</Text>
         <Text>Footer Side on navbars</Text>
       </View>
     );
